@@ -4,3 +4,4 @@
 | 448 | Find All Numbers Disappeared in an Array | Arrays | Easy | [Code](https://github.com/Anik-Paul-toj/Leetcode-solutions/blob/main/Arrays/find_all_numbers_disappeared_in_an_array.py) |
 | 209 | Minimum Size Subarray Sum | Sliding Window | Medium | [Code](https://github.com/Anik-Paul-toj/Leetcode-solutions/blob/main/Arrays/minimum_size_subarray_sum.py) |
 | 1752 | Check if Array Is Sorted and Rotated | Arrays | Easy | [Code](https://github.com/Anik-Paul-toj/Leetcode-solutions/blob/main/Arrays/check_if_array_is_sorted_and_rotated.py) |
+| 283 | Move Zeroes | Arrays | Easy | [Code](https://github.com/Anik-Paul-toj/Leetcode-solutions/blob/main/Arrays/move_zeroes.py) |
