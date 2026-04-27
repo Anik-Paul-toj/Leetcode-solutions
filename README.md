@@ -7,3 +7,4 @@
 | 283 | Move Zeroes | Arrays | Easy | [Code](https://github.com/Anik-Paul-toj/Leetcode-solutions/blob/main/Arrays/move_zeroes.py) |
 | 485 | Max Consecutive Ones | Arrays | Easy | [Code](https://github.com/Anik-Paul-toj/Leetcode-solutions/blob/main/Arrays/max_consecutive_ones.py) |
 | 136 | Single Number | Bit Manipulation | Easy | [Code](https://github.com/Anik-Paul-toj/Leetcode-solutions/blob/main/Arrays/single_number.py) |
+| 169 | Majority Element | Arrays | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/majority_element.py) |
