@@ -10,3 +10,4 @@
 | 169 | Majority Element | Arrays | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/majority_element.py) |
 | 53 | Maximum Subarray | Arrays | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/maximum_subarray.py) |
 | 34 | Find First and Last Position of Element in Sorted Array | Binary Search | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/find_first_and_last_position.py) |
+| 66 | Plus One | Arrays | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/plus_one.py) |
