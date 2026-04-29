@@ -16,3 +16,4 @@
 | 1903 | Largest Odd Number in String | Strings | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Strings/largest_odd_number_in_string.py) |
 | 1688 | Count of Matches in Tournament | Math | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/count_of_matches_in_tournament.py) |
 | 179 | Largest Number | Sorting | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/largest_number.py) |
+| 290 | Word Pattern | Hash Table | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Strings/word_pattern.py) |
