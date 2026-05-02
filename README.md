@@ -22,3 +22,4 @@
 | 242 | Valid Anagram | Hash Table | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Strings/valid_anagram.py) |
 | 151 | Reverse Words in a String | Strings | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Strings/reverse_words_in_a_string.py) |
 | 451 | Sort Characters By Frequency | Hash Table | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Strings/sort_characters_by_frequency.py) |
+| 237 | Delete Node in a Linked List | Linked List | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/LinkedList/delete_node_in_linked_list.py) |
