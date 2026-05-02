@@ -24,3 +24,4 @@
 | 451 | Sort Characters By Frequency | Hash Table | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Strings/sort_characters_by_frequency.py) |
 | 237 | Delete Node in a Linked List | Linked List | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/LinkedList/delete_node_in_linked_list.py) |
 | 21 | Merge Two Sorted Lists | Linked List | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/LinkedList/merge_two_sorted_lists.py) |
+| 83 | Remove Duplicates from Sorted List | Linked List | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/LinkedList/remove_duplicates_from_sorted_list.py) |
