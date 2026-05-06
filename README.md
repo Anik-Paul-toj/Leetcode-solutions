@@ -26,3 +26,4 @@
 | 21 | Merge Two Sorted Lists | Linked List | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/LinkedList/merge_two_sorted_lists.py) |
 | 83 | Remove Duplicates from Sorted List | Linked List | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/LinkedList/remove_duplicates_from_sorted_list.py) |
 | 50 | Pow(x, n) | Math | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Math/pow_x_n.py) |
+| 54 | Spiral Matrix | Matrix | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Matrix/spiral_matrix.py) |
