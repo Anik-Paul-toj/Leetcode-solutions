@@ -29,4 +29,5 @@
 | 54 | Spiral Matrix | Matrix | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Matrix/spiral_matrix.py) |
 | 1768 | Merge Strings Alternately | Strings | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Strings/merge_strings_alternately.py) |
 | 605 | Can Place Flowers | Arrays | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/can_place_flowers.py) |
+| 334 | Increasing Triplet Subsequence | Arrays | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/increasing_triplet_subsequence.py) |
 
