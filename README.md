@@ -33,3 +33,4 @@
 | 11 | Container With Most Water | Two Pointers | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/container_with_most_water.py) |
 | 2215 | Find the Difference of Two Arrays | Arrays | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/find_the_difference_of_two_arrays.py) |
 | 1207 | Unique Number of Occurrences | Arrays | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/unique_number_of_occurrences.py) |
+| 1657 | Determine if Two Strings Are Close | Strings | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Strings/determine_if_two_strings_are_close.py) |
