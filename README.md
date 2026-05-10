@@ -31,4 +31,4 @@
 | 605 | Can Place Flowers | Arrays | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/can_place_flowers.py) |
 | 334 | Increasing Triplet Subsequence | Arrays | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/increasing_triplet_subsequence.py) |
 | 11 | Container With Most Water | Two Pointers | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/container_with_most_water.py) |
-
+| 2215 | Find the Difference of Two Arrays | Arrays | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/find_the_difference_of_two_arrays.py) |
