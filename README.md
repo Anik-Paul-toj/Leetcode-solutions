@@ -34,3 +34,4 @@
 | 2215 | Find the Difference of Two Arrays | Arrays | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/find_the_difference_of_two_arrays.py) |
 | 1207 | Unique Number of Occurrences | Arrays | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/unique_number_of_occurrences.py) |
 | 1657 | Determine if Two Strings Are Close | Strings | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Strings/determine_if_two_strings_are_close.py) |
+| 2095 | Delete the Middle Node of a Linked List | LinkedList | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/LinkedList/delete_the_middle_node_of_a_linked_list.py) |
