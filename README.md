@@ -41,3 +41,4 @@
 | 876 | Middle of the Linked List | LinkedList | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/LinkedList/middle_of_the_linked_list.py) |
 | 1290 | Convert Binary Number in a Linked List to Integer | LinkedList | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/LinkedList/convert_binary_number_in_a_linked_list_to_integer.py) |
 | 997 | Find the Town Judge | Graph | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Graph/find_the_town_judge.py) |
+| 1791 | Find Center of Star Graph | Graph | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Graph/find_center_of_star_graph.py) |
