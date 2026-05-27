@@ -39,3 +39,4 @@
 | 234 | Palindrome Linked List | LinkedList | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/LinkedList/palindrome_linked_list.py) |
 | 724 | Find Pivot Index | Arrays (prefix Sum) | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/find_pivot_index.py) |
 | 876 | Middle of the Linked List | LinkedList | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/LinkedList/middle_of_the_linked_list.py) |
+| 1290 | Convert Binary Number in a Linked List to Integer | LinkedList | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/LinkedList/convert_binary_number_in_a_linked_list_to_integer.py) |
