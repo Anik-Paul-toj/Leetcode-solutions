@@ -38,3 +38,4 @@
 | 2095 | Delete the Middle Node of a Linked List | LinkedList | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/LinkedList/delete_the_middle_node_of_a_linked_list.py) |
 | 234 | Palindrome Linked List | LinkedList | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/LinkedList/palindrome_linked_list.py) |
 | 724 | Find Pivot Index | Arrays (prefix Sum) | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/find_pivot_index.py) |
+| 876 | Middle of the Linked List | LinkedList | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/LinkedList/middle_of_the_linked_list.py) |
