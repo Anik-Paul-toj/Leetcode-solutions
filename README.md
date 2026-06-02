@@ -44,3 +44,4 @@
 | 1791 | Find Center of Star Graph | Graph | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Graph/find_center_of_star_graph.py) |
 | 1046 | Last Stone Weight | Heap | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Heap/last_stone_weight.py) |
 | 48 | Rotate Image | Matrix | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Matrix/rotate_image.py) |
+| 73 | Set Matrix Zeroes | Matrix | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Matrix/set_matrix_zeroes.py) |
