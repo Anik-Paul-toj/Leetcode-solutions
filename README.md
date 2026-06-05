@@ -46,3 +46,4 @@
 | 48 | Rotate Image | Matrix | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Matrix/rotate_image.py) |
 | 73 | Set Matrix Zeroes | Matrix | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Matrix/set_matrix_zeroes.py) |
 | 1769 | Minimum Number of Operations to Move All Balls to Each Box | Strings | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Strings/minimum_number_of_operations_to_move_all_balls_to_each_box.py) |
+| 75 | Sort Colors | Arrays | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/sort_colors.py) |

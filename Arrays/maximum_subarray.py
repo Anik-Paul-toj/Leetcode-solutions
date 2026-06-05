@@ -33,3 +33,6 @@ class Solution:
             if summ < 0:
                 summ = 0
         return maxi
+    
+# Time Complexity: O(n) where n is the length of the input array.
+# Space Complexity: O(1) as we are using only a constant amount of extra space
