@@ -51,3 +51,4 @@
 | 561 | Array Partition | Greedy | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Greedy/array_partition.py) |
 | 860 | Lemonade Change | Greedy | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Greedy/lemonade_change.py) |
 | 1323 | Maximum 69 Number | Greedy | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Greedy/maximum_69_number.py) |
+| 1221 | Split a String in Balanced Strings | Greedy | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Greedy/split_a_string_in_balanced_strings.py) |
