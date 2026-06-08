@@ -49,3 +49,4 @@
 | 75 | Sort Colors | Arrays | Medium | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Arrays/sort_colors.py) |
 | 455 | Assign Cookies | Greedy | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Greedy/assign_cookies.py) |
 | 561 | Array Partition | Greedy | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Greedy/array_partition.py) |
+| 860 | Lemonade Change | Greedy | Easy | [Code](https://github.com/Anik-Paul-toj/leetcode-solutions/blob/main/Greedy/lemonade_change.py) |
